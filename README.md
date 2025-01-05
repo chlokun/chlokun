@@ -9,3 +9,4 @@ srv  $  discord.gg/aerisu
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=chlokun)
+![](https://hit.yhype.me/github/profile?account_id=116295241)
