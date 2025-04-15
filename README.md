@@ -4,7 +4,7 @@
 ```csharp
 github.com/chlokun
 dc   $  @chlokun
-srv  $  discord.gg/aerisu
+srv  $  discord.gg/chlo
 ```
 &zwnj; 
 &zwnj; 
